@@ -1,6 +1,0 @@
-[build]
-  base = "main"
-  publish = "main/pages"
-
-[functions]
-  directory = "main/netlify/functions"
